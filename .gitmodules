@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RootsExtremaInflections"]
+	path = RootsExtremaInflections
+	url = https://github.com/dchristop/rootsextremainflections
+	shallow = true
+	registered = true
