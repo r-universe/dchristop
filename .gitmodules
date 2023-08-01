@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RootsExtremaInflections"]
+	path = RootsExtremaInflections
+	url = https://github.com/dchristop/rootsextremainflections
 [submodule "archetypal"]
 	path = archetypal
 	url = https://github.com/cran/archetypal
 [submodule "inflection"]
 	path = inflection
 	url = https://github.com/cran/inflection
-[submodule "RootsExtremaInflections"]
-	path = RootsExtremaInflections
-	url = https://github.com/dchristop/rootsextremainflections
