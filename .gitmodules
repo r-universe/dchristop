@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "GeomArchetypal"]
+	path = GeomArchetypal
+	url = https://github.com/cran/GeomArchetypal
 [submodule "RootsExtremaInflections"]
 	path = RootsExtremaInflections
 	url = https://github.com/dchristop/rootsextremainflections
