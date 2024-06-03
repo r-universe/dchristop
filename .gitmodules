@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "GeomArchetypal"]
 	path = GeomArchetypal
-	url = https://github.com/cran/GeomArchetypal
+	url = https://github.com/dchristop/geomarchetypal
 [submodule "RootsExtremaInflections"]
 	path = RootsExtremaInflections
 	url = https://github.com/dchristop/rootsextremainflections
